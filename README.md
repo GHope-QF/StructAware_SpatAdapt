@@ -88,13 +88,7 @@ parse_all_params.m                 参数解析
 推荐版本：
 
 ```text
-MATLAB R2020b及以上
-```
-
-需要工具箱：
-
-```text
-Image Processing Toolbox
+MATLAB R2024b及以上
 ```
 
 ---
