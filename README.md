@@ -243,7 +243,7 @@ param.itr_num = 50;
 ```matlab
 param.lambda = 3000;
 param.lambda2 = 0;
-param.sigma_end = 12;
+param.sigma_start = 12;
 ```
 
 关闭二阶项。
@@ -257,7 +257,7 @@ param.sigma_end = 12;
 ```matlab
 param.lambda = 4000;
 param.lambda2 = 70;
-param.sigma_end = 25;
+param.sigma_start = 25;
 ```
 
 开启二阶项。
